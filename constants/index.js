@@ -1,5 +1,5 @@
 //my weatherapi key
-export const apiKey = "e652978e9b7d4bd0b00105902232811";
+export const apiKey = "your api key";
 
 //types of weather catergory and respective images
 export const weatherImages = {
